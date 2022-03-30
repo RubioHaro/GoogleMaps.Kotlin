@@ -11,8 +11,7 @@
         android:theme="@style/Theme.Demogooglemaps">
 
         <meta-data android:name="com.google.android.geo.API_KEY"
-                    android:value="AIzaSyD3uWn56-IEQdHvN3wRdDDi18BjYplUvJo"
-            />
+                    android:value=[INSERT API KEY HERE]            />
 
         <activity
             android:name=".MainActivity"
